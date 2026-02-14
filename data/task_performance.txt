@@ -1,0 +1,3 @@
+Solved Python coding problems.
+Built SQL queries for data extraction.
+Completed data cleaning tasks.

@@ -1,0 +1,2 @@
+Developed Python scripts for data cleaning.
+Built machine learning models and wrote SQL queries.

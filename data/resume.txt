@@ -1,0 +1,2 @@
+Experienced in Python, Machine Learning, Data Analysis, and SQL.
+Built predictive models and automated data pipelines.
