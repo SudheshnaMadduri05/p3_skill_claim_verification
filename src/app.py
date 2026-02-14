@@ -1,8 +1,8 @@
 import streamlit as st
 from pathlib import Path
-from src.skill_extractor import load_text
-from src.skill_matcher import SkillVerifier
-from src.config import ACCEPT_THRESHOLD, REVIEW_THRESHOLD
+from skill_extractor import load_text
+from skill_matcher import SkillVerifier
+from config import ACCEPT_THRESHOLD, REVIEW_THRESHOLD
 
 
 # ----------------------------
@@ -10,11 +10,11 @@ from src.config import ACCEPT_THRESHOLD, REVIEW_THRESHOLD
 # ----------------------------
 st.set_page_config(
     page_title="Skill Claim Verification System",
-    page_icon="📊",
+    
     layout="centered"
 )
 
-st.title("📊 Skill Claim Verification System")
+st.title("Skill Claim Verification System")
 st.markdown(
     """
 This system verifies whether a candidate’s **claimed skills**
