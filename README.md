@@ -53,18 +53,13 @@ By focusing on real performance rather than just self-declared claims, the syste
 Live Application Link: https://p3skillclaimverification-mzje4clva7jsd8qjhqhmal.streamlit.app/
 
 
-## Demo Video
-
-Watch the full demo here:  
-(Add your Google Drive or YouTube link here)
-
-
 
 ## Author
 
 Sudheshna Madduri  
 GitHub: https://github.com/SudheshnaMadduri05  
 LinkedIn: https://www.linkedin.com/in/sudheshna-madduri-77702a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 
 
