@@ -1,5 +1,5 @@
-sentence-transformers
-scikit-learn
-numpy
-streamlit
-atlair
+streamlit==1.32.2
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+numpy==1.26.4
+altair==5.2.0
