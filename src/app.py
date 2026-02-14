@@ -76,3 +76,4 @@ if st.button("Verify Skills"):
         st.progress(float(score))
 
         st.success("Verification completed successfully!")
+        st.write("Similarity Score:", score)
