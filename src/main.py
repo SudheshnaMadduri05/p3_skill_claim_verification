@@ -1,7 +1,7 @@
 from pathlib import Path
-from src.skill_extractor import load_text
-from src.skill_matcher import SkillVerifier
-from src.config import ACCEPT_THRESHOLD, REVIEW_THRESHOLD 
+from skill_extractor import load_text
+from skill_matcher import SkillVerifier
+from config import ACCEPT_THRESHOLD, REVIEW_THRESHOLD 
 
 print("=== Skill Claim Verification System ===")
 

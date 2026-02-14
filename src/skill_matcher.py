@@ -1,7 +1,7 @@
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-from src.config import MODEL_NAME, SIMILARITY_THRESHOLD
+from config import MODEL_NAME, SIMILARITY_THRESHOLD
 
 
 class SkillVerifier:
